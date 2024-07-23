@@ -1,0 +1,16 @@
+#myBody{
+    background-color: #b7f7c6;
+    
+    
+    
+}
+
+#mainDiv{
+    max-width: 19%;
+    margin: auto;
+    margin-top: 5em;
+    padding: 2em;
+    display: block;
+    border: solid #ed0000 thin;
+    text-align: center;
+}
